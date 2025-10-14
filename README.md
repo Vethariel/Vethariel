@@ -2,7 +2,7 @@
 ### Systems Engineering Student · Process Automation Analyst · Explorer in Machine Learning and System Design
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/media/refs/heads/main/bannerTop.png" width="100%" alt="Twilight horizon between light and shadow"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerTop.png" width="100%" alt="Twilight horizon between light and shadow"/>
 </div>
 
 
@@ -82,5 +82,5 @@ That triad defines how I think, build, and learn.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/media/refs/heads/main/bannerFoot.png" width="180px" alt="flow symbol"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerFoot.png" width="180px" alt="flow symbol"/>
 </div>
