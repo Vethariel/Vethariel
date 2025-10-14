@@ -8,7 +8,7 @@
 
 ---
 
-## 🌌 About Me  
+## About Me  
 
 I design systems where logic meets human intent.  
 My work lives at the intersection of **process automation**, **data analytics**, and **machine learning**, always searching for structures that not only work —but **make sense**.  
@@ -18,7 +18,7 @@ My technical approach is guided by a persistent pursuit of **clarity, coherence,
 
 ---
 
-## ⚙️ Featured Projects  
+## Featured Projects  
 
 | Project | Description | Stack |
 |:--|:--|:--|
@@ -27,7 +27,7 @@ My technical approach is guided by a persistent pursuit of **clarity, coherence,
 
 ---
 
-## 🧠 Machine Learning and Data Science Projects  
+## Machine Learning and Data Science Projects  
 
 I treat data as a landscape of hidden patterns — each model, a way to make the invisible legible.
 
@@ -39,22 +39,40 @@ I treat data as a landscape of hidden patterns — each model, a way to make the
 
 ---
 
-## 🔬 Technical Stack  
+## Technical Stack  
 
 <div align="center">
+
+  <!-- Core Programming -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+
+  <!-- Data & Machine Learning -->
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
-  <img alt="AppSheet" src="https://img.shields.io/badge/AppSheet-1a73e8?logo=google&logoColor=white"/>
-  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?logo=odoo&logoColor=white"/>
-  <img alt="AnyLogic" src="https://img.shields.io/badge/AnyLogic-0b5fff?logoColor=white"/>
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"/>
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white"/>
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5E00?logo=xgboost&logoColor=white"/>
+
+  <!-- Automation & Backend -->
+  <img alt="Google Apps Script" src="https://img.shields.io/badge/Apps_Script-4285F4?logo=google&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
+
+  <!-- Visualization & Tools -->
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+
 </div>
+
 
 ---
 
-## 🌗 Work Philosophy  
+## Work Philosophy  
 
 I don’t believe in automation for its own sake — only in systems that **understand their purpose**.  
 Every script, model, or dashboard should emerge from a **clear question**, a **precise structure**, and a **calm execution**.  
@@ -65,7 +83,7 @@ That triad defines how I think, build, and learn.
 
 ---
 
-## 📈 GitHub Activity  
+## GitHub Activity  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>  
@@ -74,7 +92,7 @@ That triad defines how I think, build, and learn.
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 🌐 [LinkedIn](https://www.linkedin.com/in/daniel-alonso-g/)  
 📧 [dagraciap@unal.edu.co](mailto:dagraciap@unal.edu.co)  
@@ -82,5 +100,5 @@ That triad defines how I think, build, and learn.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerFoot.png" width="180px" alt="flow symbol"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerFoot.png" width="100%" alt="flow symbol"/>
 </div>
