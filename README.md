@@ -1,4 +1,4 @@
-# 🌒 Daniel Alonso Gracia Pinto — Vethariel  
+# 🌒 Vethariel  
 ### Systems Engineering Student · Process Automation Analyst · Explorer in Machine Learning and System Design
 
 <div align="center">
