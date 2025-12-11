@@ -86,8 +86,8 @@ That triad defines how I think, build, and learn.
 ## GitHub Activity  
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
 </div>
 
 ---
