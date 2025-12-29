@@ -2,7 +2,7 @@
 ### Systems Engineering Student · Explorer in Machine Learning and System Design
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerTop.png" width="100%" alt="Aither"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.png" width="100%" alt="Aither"/>
 </div>
 
 
