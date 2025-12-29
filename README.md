@@ -1,8 +1,8 @@
 # 🌒 Vethariel  
-### Systems Engineering Student · Process Automation Analyst · Explorer in Machine Learning and System Design
+### Systems Engineering Student · Explorer in Machine Learning and System Design
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerTop.png" width="100%" alt="Twilight horizon between light and shadow"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerTop.png" width="100%" alt="Aither"/>
 </div>
 
 
@@ -98,7 +98,3 @@ That triad defines how I think, build, and learn.
 📧 [dagraciap@unal.edu.co](mailto:dagraciap@unal.edu.co)  
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/bannerFoot.png" width="100%" alt="flow symbol"/>
-</div>
