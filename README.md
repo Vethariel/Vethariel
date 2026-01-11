@@ -13,8 +13,7 @@
 I design systems where logic meets human intent.  
 My work lives at the intersection of **process automation**, **data analytics**, and **machine learning**, always searching for structures that not only work —but **make sense**.  
 
-I currently work at AutoMás LTDA, developing automation tools for HR management, while completing my Systems Engineering degree at the Universidad Nacional de Colombia.  
-My technical approach is guided by a persistent pursuit of **clarity, coherence, and elegance in engineering**.
+I am currently completing my Systems Engineering degree at the Universidad Nacional de Colombia. My technical approach is guided by a persistent pursuit of **clarity, coherence, and elegance in engineering**.
 
 ---
 
