@@ -21,8 +21,8 @@ I am currently completing my Systems Engineering degree at the Universidad Nacio
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **Core Talent Genesis** | Integrated platform for automating recruitment, auditing, and personnel analytics. | AppSheet · Apps Script · Odoo |
-| **SAFE** | Academic system for managing learning paths, training content, and certification. | JS · SQL · AppSheet |
+| **Core Talent Genesis** | Integrated platform for automating recruitment, auditing, and personnel analytics. | AppSheet · Apps Script |
+| **SAFE** | Academic system for managing learning paths, training content, and certification. | Django · PostrgesSQL |
 
 ---
 
