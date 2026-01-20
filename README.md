@@ -1,5 +1,5 @@
 # 🌒 Vethariel  
-### Systems Engineering Student · Explorer in Machine Learning and System Design
+### Systems Engineering Student · Data Science & Machine Learning
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.png" width="100%" alt="Aither"/>
@@ -8,33 +8,35 @@
 
 ---
 
-## About Me  
+## About Me
 
-I design systems where logic meets human intent.  
-My work lives at the intersection of **process automation**, **data analytics**, and **machine learning**, always searching for structures that not only work —but **make sense**.  
+I am a Systems Engineering student focused on building **clear, well-structured, and maintainable systems** at the intersection of software engineering, data science, and machine learning.
 
-I am currently completing my Systems Engineering degree at the Universidad Nacional de Colombia. My technical approach is guided by a persistent pursuit of **clarity, coherence, and elegance in engineering**.
+My work emphasizes understanding problems in context, designing appropriate data pipelines, and selecting models that support **explainable and actionable results**. I am particularly interested in how technical decisions affect real operational and human processes.
+
+Currently completing my degree at the National University of Colombia.
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **Core Talent Genesis** | Integrated platform for automating recruitment, auditing, and personnel analytics. | AppSheet · Apps Script |
-| **SAFE** | Academic system for managing learning paths, training content, and certification. | Django · PostrgesSQL |
+| **Core Talent Genesis** | Platform for automating recruitment workflows, auditing processes, and personnel analytics. | AppSheet · Apps Script |
+| **SAFE** | Academic system for managing learning paths, training records, and certifications. | Django · PostgreSQL |
 
 ---
 
-## Machine Learning and Data Science Projects  
+## Machine Learning and Data Science Projects
 
-I treat data as a landscape of hidden patterns — each model, a way to make the invisible legible.
+Projects focused on applied machine learning, data analysis, and evaluation under real-world constraints.
 
 | Project | Focus | Technologies |
 |:--|:--|:--|
-| **Employee Retention Prediction** | Classification and regression models to forecast employee turnover. | Python · Pandas · Scikit-Learn · Keras |
-| **Steam Review Analysis** | NLP project analyzing 500K reviews from *Among Us*, *Apex Legends*, and *Project Zomboid*. | NLP · gensim · sklearn · t-SNE |
-| **Urban Park Accessibility in Bogotá** | Geospatial study of environmental inequality and park coverage. | GeoPandas · Folium · QGIS |
+| **PixelGen (AD3 vs AD6)** | End-to-end diffusion models project comparing architectures, training strategies, and evaluation under limited and redundant data conditions. | Python · Keras · Diffusion Models · Gradio |
+| **Employee Retention Prediction** | Classification and regression models for employee turnover forecasting. | Python · Pandas · Scikit-Learn · Keras |
+| **Steam Review Analysis** | NLP analysis over large-scale review datasets. | NLP · Gensim · Scikit-Learn · t-SNE |
+| **Urban Park Accessibility in Bogotá** | Geospatial analysis of environmental inequality and urban park coverage. | GeoPandas · Folium · QGIS |
 
 ---
 
@@ -71,14 +73,16 @@ I treat data as a landscape of hidden patterns — each model, a way to make the
 
 ---
 
-## Work Philosophy  
+## Work Philosophy
 
-I don’t believe in automation for its own sake — only in systems that **understand their purpose**.  
-Every script, model, or dashboard should emerge from a **clear question**, a **precise structure**, and a **calm execution**.  
+I believe automation and machine learning should serve a clear purpose.  
+Every system should start from a **well-defined problem**, a **sound structure**, and deliberate technical decisions.
 
-> “Precision builds structure, propagation builds impact, and persistence builds meaning.”
+I prioritize clarity over complexity, reproducibility over shortcuts, and systems that can be understood, maintained, and explained.
 
-That triad defines how I think, build, and learn.
+> Precision builds structure.  
+> Propagation builds impact.  
+> Persistence builds meaning.
 
 ---
 
