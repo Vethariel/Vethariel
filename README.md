@@ -92,8 +92,8 @@ and only as durable as the people who can understand and maintain it.
 ## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b&hide=jupyter%20notebook" width="48%"/>
 </div>
 
 ---
