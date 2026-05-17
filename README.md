@@ -92,8 +92,8 @@ and only as durable as the people who can understand and maintain it.
 ## Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vethariel&theme=radical&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vethariel&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Vethariel&theme=radical&background=0f0000&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&stroke=ff3b3b" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vethariel&theme=radical&bg_color=0f0000" height="180"/>
 </div>
 
 ---
