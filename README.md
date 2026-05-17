@@ -1,103 +1,104 @@
-# 🌒 Vethariel  
-### Systems Engineering Student · Data Science & Machine Learning
+# Daniel Gracia · Vethariel
+
+### Systems Engineering Student · Data Science · Machine Learning · Process Automation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.png" width="100%" alt="Aither"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.png" width="100%" alt="banner"/>
 </div>
 
+---
+
+I build systems that work — and that people can understand.
+
+My focus is on data science, machine learning, and process automation,
+with special interest in how technical decisions affect the humans on
+the other side of a system. I work at the intersection of software
+engineering, applied AI, and organizational problems.
+
+Currently finishing my degree at Universidad Nacional de Colombia
+and exploring how AI can support learning in early programming education.
 
 ---
 
-## About Me
+## Projects
 
-I am a Systems Engineering student focused on building **clear, well-structured, and maintainable systems** at the intersection of software engineering, data science, and machine learning.
-
-My work emphasizes understanding problems in context, designing appropriate data pipelines, and selecting models that support **explainable and actionable results**. I am particularly interested in how technical decisions affect real operational and human processes.
-
-Currently completing my degree at the National University of Colombia.
-
----
-
-## Featured Projects
+### Applied ML & Data Science
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| **Core Talent Genesis** | Platform for automating recruitment workflows, auditing processes, and personnel analytics. | AppSheet · Apps Script |
-| **SAFE** | Academic system for managing learning paths, training records, and certifications. | Django · PostgreSQL |
+| **PixelGen** | Diffusion models comparing architectures under limited and redundant data conditions. | Keras · Diffusion Models · Gradio |
+| **Employee Retention Prediction** | Classification and regression pipeline for turnover forecasting. | Scikit-learn · Keras · Pandas |
+| **Steam Review Analysis** | Large-scale NLP analysis on ~500K user reviews. | Gensim · Scikit-learn · t-SNE |
+| **Urban Park Accessibility — Bogotá** | Geospatial analysis of environmental inequality and park coverage. | GeoPandas · Folium · QGIS |
 
----
+### Software & Automation
 
-## Machine Learning and Data Science Projects
-
-Projects focused on applied machine learning, data analysis, and evaluation under real-world constraints.
-
-| Project | Focus | Technologies |
+| Project | Description | Stack |
 |:--|:--|:--|
-| **PixelGen (AD3 vs AD6)** | End-to-end diffusion models project comparing architectures, training strategies, and evaluation under limited and redundant data conditions. | Python · Keras · Diffusion Models · Gradio |
-| **Employee Retention Prediction** | Classification and regression models for employee turnover forecasting. | Python · Pandas · Scikit-Learn · Keras |
-| **Steam Review Analysis** | NLP analysis over large-scale review datasets. | NLP · Gensim · Scikit-Learn · t-SNE |
-| **Urban Park Accessibility in Bogotá** | Geospatial analysis of environmental inequality and urban park coverage. | GeoPandas · Folium · QGIS |
+| **Core Talent Genesis** | Recruitment automation, process auditing, and personnel analytics platform. | AppSheet · Apps Script |
+| **SAFE** | Academic system for learning paths, training records, and certifications. | Django · PostgreSQL |
 
 ---
 
-## Technical Stack  
+## Technical Stack
 
 <div align="center">
 
-  <!-- Core Programming -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
 
-  <!-- Data & Machine Learning -->
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"/>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"/>
-  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?logoColor=white"/>
-  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5E00?logo=xgboost&logoColor=white"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5E00?logoColor=white"/>
 
-  <!-- Automation & Backend -->
   <img alt="Google Apps Script" src="https://img.shields.io/badge/Apps_Script-4285F4?logo=google&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
 
-  <!-- Visualization & Tools -->
+  <img alt="GeoPandas" src="https://img.shields.io/badge/GeoPandas-139C5A?logoColor=white"/>
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 
 </div>
 
+---
+
+## Certifications
+
+- **IBM AI Engineering Professional Certificate** — Coursera / IBM · Feb 2026  
+  ML · Deep Learning · Generative AI · LLMs · Transformers · RAG · LangChain
+
+- **Google Cloud Fundamentals: Core Infrastructure** — Coursera / Google Cloud · Dec 2025
 
 ---
 
 ## Work Philosophy
 
-I believe automation and machine learning should serve a clear purpose.  
-Every system should start from a **well-defined problem**, a **sound structure**, and deliberate technical decisions.
-
-I prioritize clarity over complexity, reproducibility over shortcuts, and systems that can be understood, maintained, and explained.
-
 > Precision builds structure.  
 > Propagation builds impact.  
 > Persistence builds meaning.
 
+A system is only as good as the problem it actually solves —
+and only as durable as the people who can understand and maintain it.
+
 ---
 
-## GitHub Activity  
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vethariel&show_icons=true&theme=radical&hide_title=true&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b" width="48%"/>
 </div>
 
 ---
 
-## Connect with Me  
+## Contact
 
-🌐 [LinkedIn](https://www.linkedin.com/in/daniel-alonso-g/)  
-📧 [dagraciap@unal.edu.co](mailto:dagraciap@unal.edu.co)  
-
----
+🌐 [LinkedIn](https://www.linkedin.com/in/vethariel/)  
+📧 dagraciap@unal.edu.co
