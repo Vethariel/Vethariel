@@ -93,7 +93,7 @@ and only as durable as the people who can understand and maintain it.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Vethariel&theme=radical&background=0d1117&ring=ff3b3b&fire=ff3b3b&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vethariel&layout=compact&theme=radical&bg_color=0d1117&text_color=ffffff&icon_color=ff3b3b&hide=jupyter%20notebook&cache_seconds=1800" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vethariel&theme=radical" width="48%"/>
 </div>
 
 ---
