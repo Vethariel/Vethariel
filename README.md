@@ -3,7 +3,7 @@
 ### Systems Engineering Student · Data Science · Machine Learning · Process Automation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.png" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/Vethariel/Vethariel/refs/heads/main/media/banner.jpg" width="100%" alt="banner"/>
 </div>
 
 ---
